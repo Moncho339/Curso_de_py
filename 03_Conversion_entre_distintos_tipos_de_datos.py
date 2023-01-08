@@ -5,7 +5,7 @@ string = str(float)
 print(string)
 print(type(string))
 
-decimal_str = '25.90'
+decimal_str = '25.98'
 numero = float(decimal_str)
 print(numero)
 print(type(numero))
