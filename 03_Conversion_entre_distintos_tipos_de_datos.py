@@ -24,6 +24,3 @@ print(type(numero2))
 suma = numero + numero2
 print(suma)
 print(type(suma))
-
-
-
