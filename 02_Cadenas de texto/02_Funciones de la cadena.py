@@ -1,3 +1,5 @@
+### Funciones de las cadenas ###
+
 string1 = "Hola Mundo"
 print(len(string1)) #Sirve para ver cuantos caracteres tiene un String
 print(string1.upper()) #Sirve para cambiar todo el texto a mayuscula pero ojo, no cambia el valor de la variable
