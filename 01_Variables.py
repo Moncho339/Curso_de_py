@@ -1,3 +1,5 @@
+### Variables ###
+
 # Una variable siempre tiene que empezar por una letra o por un guion bajo
 mensaje = "Hola Mundo"
 #20mensajes = "Hello World"
