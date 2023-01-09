@@ -6,7 +6,7 @@ Es igual = ==
 Distinto de = !=
 Mayor = >
 Menor = <
-Mayo o igual = >=
+Mayor o igual = >=
 Menor o igual = <=
 """
 ## es igual ##
