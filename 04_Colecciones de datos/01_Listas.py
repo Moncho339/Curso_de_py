@@ -15,7 +15,7 @@ colores.remove("amarillo")
 print(colores)
 
 for color in colores:
-    print(colores)
+    print(color)
 
 colores.clear()
 print(colores)
