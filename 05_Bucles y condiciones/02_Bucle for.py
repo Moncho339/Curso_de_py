@@ -38,3 +38,9 @@ for numero in range(10):
 for numero1 in range(4):
     for numero2 in range(3):
         print(numero1,numero2)
+
+
+
+
+
+#Incompleto
